@@ -2,7 +2,7 @@ name = "github-wechat-bot"
 type = "javascript"
 
 # 请修改成自己的 account_id
-account_id = "fd859a969257e8b9a374db8e26327a28"
+account_id = "e2b6648bd9475d35a63adf1fd4ee97d1"
 workers_dev = true
 route = ""
 zone_id = ""
